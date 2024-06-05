@@ -24,7 +24,9 @@ For the calculation of $LWC_{ad}$, there is a need for thermodynamic profiles (t
 
 ### Technicalities
 
-The required input for this program is a netCDF file containing data from a cloud simulation. The necessary fields are:
+The required input for this program is a netCDF file containing data from a cloud simulation. 
+
+The necessary fields are:
 
 * Vertical velocity [m/s] - **w**
 * Non-precipitating water content [g/kg]- **Qn**
@@ -44,6 +46,11 @@ The constants are :
 * Heat capacity [J/kg/K]: $c_p=1000$
 * Latent heat [J/kg]: $L_w= 2.5e6$
 
+  ## The rei
+The requirement installations are in 'requirements.txt'
+,,,
+pip install -r requirements.txt
+,,,
 
 
 
