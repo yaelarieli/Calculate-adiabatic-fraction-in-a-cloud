@@ -38,6 +38,9 @@ The necessary fields are:
 * Relative Humidity [%] - **RH**
 * Level axis - **z**
 
+**z** need to be 1D vector, all the rest of the field can be 2D or 3D.
+
+
 The constants are :
 
 * Gravity [m/s] : $g=9.8$
@@ -51,7 +54,18 @@ The requirement installations are in `requirements.txt`
 ```
 pip install -r requirements.txt
 ```
-####
 
+#### Tests the program
+To test the program run:
+```
+pytest
+
+```
+
+## Run the program
+To run the program, you need to provide the input file name in the command line:
+```
+python project.py input.nc
+```
 
 
