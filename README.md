@@ -25,6 +25,6 @@ For the calculation of $LWC_{ad}$, there is a need for thermodynamic profiles (t
 ### Technicalities
 
 The required input for this program is a netCDF file containing data from a cloud simulation. The necessary fields are:
-Vertical velocity - ~w
+Vertical velocity - *w*
 
 
