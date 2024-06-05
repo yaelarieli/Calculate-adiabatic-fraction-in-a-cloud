@@ -23,7 +23,7 @@ where $z_0 = 0$ at the cloud base.
 For the calculation of $LWC_{ad}$, there is a need for thermodynamic profiles (temperature $T(z)$ and specific humidity $q_v(z)$ ).  These profiles can be taken from the regions that are considered to be the most adiabatic; hence, the temperature and humidity profiles of the average of the points with the highest $5$% updraft values at each level.
 
 # Technicalities
-
+## Inputs
 The required input for this program is a netCDF file containing data from a cloud simulation. 
 
 The necessary fields are:
