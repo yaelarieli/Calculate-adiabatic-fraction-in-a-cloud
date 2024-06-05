@@ -48,9 +48,9 @@ The constants are :
 
   ## The rei
 The requirement installations are in 'requirements.txt'
-,,,
+```
 pip install -r requirements.txt
-,,,
+```
 
 
 
