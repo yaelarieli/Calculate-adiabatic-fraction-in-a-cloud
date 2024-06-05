@@ -47,7 +47,7 @@ The constants are :
 * Latent heat [J/kg]: $L_w= 2.5e6$
 
   ## The rei
-The requirement installations are in 'requirements.txt'
+The requirement installations are in `requirements.txt`
 ```
 pip install -r requirements.txt
 ```
