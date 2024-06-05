@@ -26,23 +26,23 @@ For the calculation of $LWC_{ad}$, there is a need for thermodynamic profiles (t
 
 The required input for this program is a netCDF file containing data from a cloud simulation. The necessary fields are:
 
-*Vertical velocity [m/s] - **w**
-*Non-precipitating water content [g/kg]- **Qn**
-*Rain water content [g/kg]- **Qp**
-*Liquid mixing ration [g/kg] - **Qc = Qp+Qn**
-*Vapor mixing ratio [g/kg] = **Qv**
-*Temperature [K] - **T**
-*Pressur [pascal] - **prs**
-*Relative Humidity [%] - **RH**
-*Level axis - **z**
+* Vertical velocity [m/s] - **w**
+* Non-precipitating water content [g/kg]- **Qn**
+* Rain water content [g/kg]- **Qp**
+* Liquid mixing ration [g/kg] - **Qc = Qp+Qn**
+* Vapor mixing ratio [g/kg] = **Qv**
+* Temperature [K] - **T**
+* Pressur [pascal] - **prs**
+* Relative Humidity [%] - **RH**
+* Level axis - **z**
 
 The constants are :
 
-*Gravity [m/s] : $g=9.8$
-*Gas constant for dry air: $R_a=287$
-*Gas constant for water vapor: $R_{v}=461$ 
-*Heat capacity [J/kg/K]: $c_p=1000$
-*Latent heat [J/kg]: $L_w= 2.5e6$
+* Gravity [m/s] : $g=9.8$
+* Gas constant for dry air: $R_a=287$
+* Gas constant for water vapor: $R_{v}=461$ 
+* Heat capacity [J/kg/K]: $c_p=1000$
+* Latent heat [J/kg]: $L_w= 2.5e6$
 
 
 
