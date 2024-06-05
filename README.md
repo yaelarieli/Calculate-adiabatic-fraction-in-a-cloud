@@ -9,6 +9,7 @@ The AF is defined as $LWC/LWC_{ad}$, where $LWC_{ad}$ is the liquid water conten
  $\frac{dlog(S+1)}{dz}=A_1-A_2\frac{dLWC}{dz}$
 
 
-$A_1=\frac{g}{T}(\frac{L_w}{c_pR_vT}-\frac{1}{R_a})$ \\
-$ A_2=\frac{1}{\rho_v}+\frac{L_w^2}{c_pR_vT^2\rho_d}$ 
+$A_1=\frac{g}{T}(\frac{L_w}{c_pR_vT}-\frac{1}{R_a})$
+
+$A_2=\frac{1}{\rho_v}+\frac{L_w^2}{c_pR_vT^2\rho_d}$ 
 
