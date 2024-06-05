@@ -22,7 +22,7 @@ where $z_0 = 0$ at the cloud base.
 
 For the calculation of $LWC_{ad}$, there is a need for thermodynamic profiles (temperature $T(z)$ and specific humidity $q_v(z)$ ).  These profiles can be taken from the regions that are considered to be the most adiabatic; hence, the temperature and humidity profiles of the average of the points with the highest $5$% updraft values at each level.
 
-### Technicalities
+# Technicalities
 
 The required input for this program is a netCDF file containing data from a cloud simulation. 
 
@@ -49,13 +49,13 @@ The constants are :
 * Heat capacity [J/kg/K]: $c_p=1000$
 * Latent heat [J/kg]: $L_w= 2.5e6$
 
-#### Install the dependencies
+## Install the dependencies
 The requirement installations are in `requirements.txt`
 ```
 pip install -r requirements.txt
 ```
 
-#### Tests the program
+## Tests the program
 To test the program run:
 ```
 pytest
