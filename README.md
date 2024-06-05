@@ -20,3 +20,5 @@ $LWC_{ad}(z)\approx \int_{z_0}^{z'}\frac{A_1(z')}{A_2(z')}dz'-\int_{z_0}^{z}\fra
 
 where $z_0 = 0$ at the cloud base.
 
+For the calculation of $LWC_{ad}$, there is a need for thermodynamic profiles (temperature $T(z)$ and specific humidity $q_v(z)$ ).  These profiles can be taken from the regions that are considered to be the most adiabatic; hence, the temperature and humidity profiles of the average of the points with the highest $5\%$ updraft values at each level.
+
