@@ -13,7 +13,7 @@ The cloud can be described as a mixture of undiluted – adiabatic parts that do
 
 (3)  $A_2=\frac{1}{\rho_v}+\frac{L_w^2}{c_pR_vT^2\rho_d}$   
 
-where $S$ is the supersaturation, $g$ is the gravity acceleration, $T$ is the temperature, $L_w$ is the latent heat of water evaporation, $c_p$ is the specific heat of air at constant pressure, $R_v$ and $R_a$ are the specific gas constants of water vapor and dry air, respectively, and  $\rho_v$ and $\rho_d$ are the respective density of water vapor and dry air.
+where $S$ is the [supersaturation](https://geo.libretexts.org/Bookshelves/Meteorology_and_Climate_Science/Practical_Meteorology_(Stull)/07%3A_Precipitation_Processes/7.01%3A_Supersaturation_and_Water_Availability), $g$ is the gravity acceleration, $T$ is the temperature, $L_w$ is the latent heat of water evaporation, $c_p$ is the specific heat of air at constant pressure, $R_v$ and $R_a$ are the specific gas constants of water vapor and dry air, respectively, and  $\rho_v$ and $\rho_d$ are the respective density of water vapor and dry air.
 Since these equations do not include mixing effects, we can consider that $LWC = LWC_{ad}$. Additionally, for $S<<1$, Eq.1 can be approximated to
 
 $LWC_{ad}(z)\approx \int_{z_0}^{z'}\frac{A_1(z')}{A_2(z')}dz'-\int_{z_0}^{z}\frac{1}{A_2(z')}\frac{dS}{dz'}dz'$
