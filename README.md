@@ -59,7 +59,6 @@ pip install -r requirements.txt
 To test the program run:
 ```
 pytest
-
 ```
 
 ## Run the program
