@@ -38,7 +38,7 @@ The necessary fields are:
 * Relative Humidity [%] - **RH**
 * Level axis - **z**
 
-**z** need to be 1D vector, all the rest of the field can be 2D or 3D.
+**z** need to be a 1D vector, all the rest of the field can be 2D or 3D matrix.
 
 
 The constants are :
