@@ -32,7 +32,7 @@ The necessary fields are:
 * Non-precipitating water content [g/kg]- **Qn**
 * Rain water content [g/kg]- **Qp**
 * Liquid mixing ration [g/kg] - **Qc = Qp+Qn**
-* Vapor mixing ratio [g/kg] = **Qv**
+* Vapor mixing ratio [g/kg] - **Qv**
 * Temperature [K] - **T**
 * Pressur [pascal] - **prs**
 * Relative Humidity [%] - **RH**
