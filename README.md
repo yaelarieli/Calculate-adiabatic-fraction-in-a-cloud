@@ -24,7 +24,7 @@ For the calculation of $LWC_{ad}$, there is a need for thermodynamic profiles (t
 
 # Technicalities
 ## Inputs
-The required input for this program is a NetCDF file containing data from an LES simulation of a cloud. 
+The required input for this program is a NetCDF file containing data from an LES simulation of a [cloud](https://journals.ametsoc.org/view/journals/atsc/61/24/jas-3350.1.xml). 
 
 The necessary fields are:
 
