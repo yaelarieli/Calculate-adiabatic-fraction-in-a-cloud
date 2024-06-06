@@ -66,5 +66,5 @@ To run the program, you need to provide the input file name in the command line:
 ```
 python project.py input.nc
 ```
-
+The program will provide a figure of a cross-section of the AF field.
 
