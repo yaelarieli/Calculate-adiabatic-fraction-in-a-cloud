@@ -76,6 +76,7 @@ Replace INPUT_FILE with the path to your netCDF file
 
 ### Options
 `--CloudBase` or `-Zb`: Index of cloud base height. The default value set to 60.
+
 `--CorePrecentage` or `-pact`: Percentage of the highest values in the core variable. The default value is set to 95.
 
 
