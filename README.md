@@ -65,6 +65,9 @@ pytest
 ```
 
 ## Run the program
+The main program is contained in the `project.py` file, while the required functions are defined in `func_for_project.py`.
+The program will provide a figure of a cross-section of the AF field.
+
 To run the program, you need to provide the input file name in the command line:
 ```
 python project.py INPUT_FILE [OPTIONS]
@@ -75,6 +78,5 @@ Replace INPUT_FILE with the path to your netCDF file
 `--CloudBase` or `-Zb`: Index of cloud base height. The default value set to 60.
 `--CorePrecentage` or `-pact`: Percentage of the highest values in the core variable. The default value is set to 95.
 
-The main program is contained in the `project.py` file, while the required functions are defined in `func_for_project.py`.
-The program will provide a figure of a cross-section of the AF field.
+
 
