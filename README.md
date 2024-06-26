@@ -72,7 +72,7 @@ To run the program, you need to provide the input file name in the command line:
 ```
 python project.py INPUT_FILE [OPTIONS]
 ```
-Replace INPUT_FILE with the path to your netCDF file
+Replace INPUT_FILE with the path to your netCDF file. You can use the file in the folder called `data_for_AFcalc.nc`.
 
 ### Options
 `--CloudBase` or `-Zb`: Index of cloud base height. The default value set to 60.
